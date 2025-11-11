@@ -16,7 +16,6 @@ To create a project, simply run:
 ```bash
 npx create-nodejs-express-app <project-name>
 ```
-
 Or
 
 ```bash
